@@ -11,30 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Rail transit signal and control, Zhengzhou University, 2021
+* M.S. in Traffic Information Engineering and Control, Beijing Jiaotong University, 2024 (expected)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages
+  * Chinese (native)
+  * English (CET-6)
+* Programming
+  * C++ (NCRE Certificate, Grade 2)
+  * Python
+  * C
+  * C#
 
 Publications
 ======
@@ -48,12 +37,16 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+Honors
+======
+1. First-class academic scholarship
+2. Win the third prize in China poster-graduate mathematical contest in modeling
+
+Hobbies
+======
+* Travelling
