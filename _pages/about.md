@@ -29,8 +29,9 @@ Skills
 
 Hobbies
 ======
-* Traveling
+* Travelling
 
 For more info
 -----
-# If you are intereted in 
+
+% If you are intereted in 
