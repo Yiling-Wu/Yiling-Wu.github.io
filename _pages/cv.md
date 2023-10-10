@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV (in English)"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -46,6 +46,10 @@ Honors
 ======
 1. First-class academic scholarship
 2. Win the third prize in China poster-graduate mathematical contest in modeling
+
+Self evaluation
+=====
+* 
 
 Hobbies
 ======
